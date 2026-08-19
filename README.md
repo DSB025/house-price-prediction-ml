@@ -131,7 +131,7 @@ Bengaluru-House-Price-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Bengaluru-House-Price-Prediction.git
+git clone https://github.com/DSB025/house-price-prediction-ml
 cd Bengaluru-House-Price-Prediction
 ```
 
